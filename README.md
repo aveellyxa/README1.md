@@ -12,4 +12,4 @@
 <p>sss</p>
 <a href="https://passport.yandex.ru/pwl-yandex/auth/push-code?origin=music&retpath=https%3A%2F%2Fmusic.yandex.ru%2F&language=ru">Ссылка</a>
 <a href="https://github.com/aveellyxa/README1.md.git">Ссылка на первый проект</a>
-<a href="https://github.com/aveellyxa/README1.md/blob/main/gggg"</a>
+<a href="https://github.com/aveellyxa/README1.md/blob/main/gggg">Ссылка на второй проект</a>
