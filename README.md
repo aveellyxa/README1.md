@@ -10,3 +10,4 @@
 <p>sss</p>
 <h6>hhh</h6>
 <p>sss</p>
+<a href="https://passport.yandex.ru/pwl-yandex/auth/push-code?origin=music&retpath=https%3A%2F%2Fmusic.yandex.ru%2F&language=ru">Ссылка</a>
